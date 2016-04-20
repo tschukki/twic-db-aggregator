@@ -1,0 +1,1 @@
+TWIC provides weekly updates of pgn games for download.  This app provides a quick way to download a range of them (currently nearly 700 weeks worth ...) of files and collates them into one larger pgn suitable for use with chess database tools.
